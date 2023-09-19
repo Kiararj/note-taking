@@ -12,6 +12,6 @@ To install this project, clone the repository and open terminal. Use the npm ins
 
 To use the project, open the terminal and run the npm start command. Open your preferred browser and type in the port provided in the server.
 
-![alt text](assets/screenshots/screenshot-one.png)
+![alt text](Develop/public/assets/screenshots/screenshot-one.png)
 
-![alt text](assets/screenshots/screenshot-two.png)
+![alt text](Develop/public/assets/screenshots/screenshot-two.png)
