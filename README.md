@@ -1,5 +1,4 @@
 # Note Taker
-
 ## Description
 
 This project is a note taking application made using Express and Node.js.
